@@ -83,10 +83,14 @@
                 <div class="title m-b-md">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     Salut Kevin !!
 =======
                     Hello World !
 >>>>>>> parent of a1cc6c6... modif title
+=======
+                    Salut KevinA !!
+>>>>>>> a1cc6c6... modif title
 =======
                     Salut KevinA !!
 >>>>>>> a1cc6c6... modif title

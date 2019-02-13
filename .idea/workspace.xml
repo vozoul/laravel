@@ -30,12 +30,17 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="308">
               <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
 =======
             <state relative-caret-position="291">
               <caret line="83" column="33" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
 >>>>>>> parent of a1cc6c6... modif title
+=======
+            <state relative-caret-position="308">
+              <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+>>>>>>> a1cc6c6... modif title
 =======
             <state relative-caret-position="308">
               <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
@@ -269,9 +274,13 @@
       <workItem from="1550048740123" duration="1222000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1550050228237" duration="927000" />
 =======
 >>>>>>> parent of a1cc6c6... modif title
+=======
+      <workItem from="1550050228237" duration="865000" />
+>>>>>>> a1cc6c6... modif title
 =======
       <workItem from="1550050228237" duration="865000" />
 >>>>>>> a1cc6c6... modif title
@@ -281,10 +290,14 @@
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2149000" />
 =======
     <option name="totallyTimeSpent" value="1222000" />
 >>>>>>> parent of a1cc6c6... modif title
+=======
+    <option name="totallyTimeSpent" value="2087000" />
+>>>>>>> a1cc6c6... modif title
 =======
     <option name="totallyTimeSpent" value="2087000" />
 >>>>>>> a1cc6c6... modif title
@@ -361,6 +374,7 @@
     </entry>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -373,10 +387,15 @@
           <second_editor />
 >>>>>>> parent of a1cc6c6... modif title
 =======
+=======
+>>>>>>> a1cc6c6... modif title
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+<<<<<<< HEAD
+>>>>>>> a1cc6c6... modif title
+=======
 >>>>>>> a1cc6c6... modif title
         </state>
       </provider>
