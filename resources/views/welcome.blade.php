@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Salut Kevin !!
+=======
+                    Hello World !
+>>>>>>> parent of a1cc6c6... modif title
                 </div>
 
                 <div class="links">
