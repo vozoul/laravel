@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Salut KevinA !!
+                    Salut Kevin !!
                 </div>
 
                 <div class="links">
