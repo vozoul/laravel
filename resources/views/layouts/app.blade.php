@@ -19,12 +19,13 @@
 <body>
         @section('navbar')
         <nav class="navbar navbar-expand-lg navbar-light bg-cherii position-relative">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler mr-auto position-relative" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="/">
                 <img src="{{asset('img/logo/logo-Horizontal.png')}}" width="100" height="55" class="d-inline-block align-top position-absolute justify-self-center logo" alt="">
             </a>
+            <a href="{{asset('basket')}}" class="navbar-toggler"><i class="fas fa-shopping-basket"></i></a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
@@ -39,7 +40,7 @@
                 </ul>
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="/basket"><i class="fas fa-shopping-basket"></i></a>
+                        <a class="nav-link" href="{{asset('basket')}}"><i class="fas fa-shopping-basket"></i></a>
                     </li>
                 </ul>
             </div>
